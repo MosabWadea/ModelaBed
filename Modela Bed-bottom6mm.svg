@@ -13,8 +13,8 @@
    height="567.95667"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="Modela Bed-bottom6mmh.pdf">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Modela Bed-bottom6mm.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="933.08808"
-     inkscape:cy="360.61095"
+     inkscape:zoom="1"
+     inkscape:cx="571.12944"
+     inkscape:cy="279.86115"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -59,18 +59,19 @@
      transform="translate(2121.7835,-231.6479)">
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.03543307;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m -2078.2798,231.70739 0,34.73488 -43.4412,0 0,533.0998 886.7323,0 0,-533.0998 -40.4524,0 0,-34.73488 -802.8387,0 z"
+       d="m -2078.2798,231.70739 0,38.13518 -43.4412,0 0,529.6995 886.7323,0 0,-529.6995 -40.4524,0 0,-38.13518 z"
        id="rect2998"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
     <path
-       style="fill:none;stroke:#ff0000;stroke-width:0.03543307;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m -1271.2188,756.56086 c -4.3845,0 -7.9687,3.55418 -7.9687,7.9375 l -0.062,2.625 c 0,4.38332 3.5529,7.9375 7.9375,7.9375 4.3846,0 7.9375,-3.55418 7.9375,-7.9375 l 0.094,-2.625 c 0,-4.38198 -3.5543,-7.9375 -7.9376,-7.9375 z"
+       style="fill:none;stroke:#ff0000;stroke-width:0.03883332;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m -1269.2602,756.18891 c -4.904,0 -8.9128,3.81683 -8.9128,8.52408 l -0.069,2.819 c 0,4.70725 3.9739,8.52408 8.8779,8.52408 4.9041,0 8.8779,-3.81683 8.8779,-8.52408 l 0.1052,-2.819 c 0,-4.70581 -3.9754,-8.52408 -8.878,-8.52408 z"
        id="path3771"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sccsccss" />
     <g
        id="g3869"
-       transform="translate(24.361016,-138.92624)"
+       transform="matrix(1.1184292,0,0,1.0738255,274.17506,-205.38753)"
        style="stroke-width:0.03543307;stroke-miterlimit:4;stroke-dasharray:none">
       <path
          sodipodi:nodetypes="sccsccss"
@@ -111,5 +112,37 @@
        inkscape:randomized="0"
        d="m 118,246.95966 -66.274991,36.79165 -65.000001,-39 1.274991,-75.79165 66.274992,-36.79166 64.999999,39 z"
        transform="matrix(0.18426216,0,0,0.18211239,-1400.1311,465.85433)" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke:#ff0000;stroke-width:0.2056265;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3799-74"
+       sodipodi:sides="6"
+       sodipodi:cx="53"
+       sodipodi:cy="207.95966"
+       sodipodi:r1="75.802376"
+       sodipodi:r2="37.901188"
+       sodipodi:arg1="0.5404195"
+       sodipodi:arg2="1.0640183"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 118,246.95966 -66.274991,36.79165 -65.000001,-39 1.274991,-75.79165 66.274992,-36.79166 64.999999,39 z"
+       transform="matrix(0.18426216,0,0,0.18211239,-2077.8159,465.89592)" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke:#ff0000;stroke-width:0.2056265;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3799-7-0"
+       sodipodi:sides="6"
+       sodipodi:cx="53"
+       sodipodi:cy="207.95966"
+       sodipodi:r1="75.802376"
+       sodipodi:r2="37.901188"
+       sodipodi:arg1="0.5404195"
+       sodipodi:arg2="1.0640183"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 118,246.95966 -66.274991,36.79165 -65.000001,-39 1.274991,-75.79165 66.274992,-36.79166 64.999999,39 z"
+       transform="matrix(0.18426216,0,0,0.18211239,-1300.1309,465.85433)" />
   </g>
 </svg>
